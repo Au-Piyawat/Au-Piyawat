@@ -14,11 +14,12 @@ I'm always eager to learn new technologies, improve my programming skills, and b
 ## 💼 Experience
 
 **Software Tester (Cooperative Education)**
-
-- 4-month cooperative education experience in software testing.
+- 4-month experience in software testing.
 - Performed manual testing for web and mobile applications.
 - Created test scenarios and test cases, reported defects, and performed retesting.
 - Gained basic experience in web test automation using Robot Framework and SeleniumLibrary.
+
+
 ## 🛠️ Technical Skills
 
 **Languages**
