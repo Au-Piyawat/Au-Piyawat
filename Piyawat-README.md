@@ -2,13 +2,9 @@
 
 ## About Me
 
-I'm an Information Technology (Continuing Program) graduate from Prince of Songkla University with an interest in software development, particularly web application development.
+I'm an Information Technology graduate from Prince of Songkla University with an interest in software development, including web and application development. I'm interested in both Frontend and Backend Development, with a focus on Full-Stack Development.
 
-I'm interested in both Frontend and Backend Development, with a focus on Full-Stack Development. I have hands-on experience in frontend development through university projects, including UI implementation, frontend functionality, API integration, and database connectivity. I'm also expanding my knowledge of backend development through personal projects and self-learning.
-
-Additionally, I have 4 months of cooperative education experience as a Software Tester, where I gained practical experience in manual testing for web and mobile applications, as well as basic web test automation.
-
-I'm always eager to learn new technologies, improve my programming skills, and build practical software solutions through hands-on experience.
+I have hands-on frontend development experience through university projects and 4 months of cooperative education experience as a Software Tester, covering manual testing for web and mobile applications, as well as basic web test automation.
 
 
 ## 💼 Experience
